@@ -11,6 +11,6 @@ def calculator(num1,op,num2):
     else:
         pass
 num1=int(input("enter num1:"))
-op=input("enter operation : /*+-")
+op=input("enter operation : /*+- : ")
 num2=int(input("enter num2:"))
 calculator(num1,op,num2)
